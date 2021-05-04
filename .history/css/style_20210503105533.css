@@ -13,9 +13,9 @@
   --fw-reg: 400;
   --fw-bold: 700;
 
-  --clr-light: white;
+  --clr-light: rgb(211, 199, 176);
   --clr-dark: black;
-  --clr-accent: rgb(202, 157, 72);
+  --clr-accent: rgb(29, 240, 194);
 
   --fs-h1: 3rem;
   --fs-h2: 2.25rem;
